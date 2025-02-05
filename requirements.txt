@@ -1,0 +1,7 @@
+ffmpeg==1.4
+ffmpeg-python==0.2.0
+future==1.0.0
+pytube==15.0.0
+pytubefix==8.12.1
+typing_extensions==4.12.2
+yt-dlp==2025.1.26
